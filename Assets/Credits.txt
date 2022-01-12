@@ -1,0 +1,8 @@
+Credits:
+Project Creator: Nathan Taylor
+Project Idea and Tutorial: 
+	- Introduction to Roll-a-ball by Unity Technologies
+		https://learn.unity.com/tutorial/introduction-to-roll-a-ball?uv=2019.3&projectId=5c51479fedbc2a001fd5bb9f#
+Assets Used:
+	- Free Mummy Monster by amusedART
+		https://assetstore.unity.com/packages/3d/characters/free-mummy-monster-134212
